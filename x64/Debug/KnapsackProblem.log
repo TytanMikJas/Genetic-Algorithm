@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\TEP\KnapsackProblem\Main.cpp(19,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\TEP\KnapsackProblem\Main.cpp(26,67): warning C4305: 'argument': truncation from 'double' to 'float'
+  KnapsackProblem.vcxproj -> C:\TEP\KnapsackProblem\x64\Debug\KnapsackProblem.exe
